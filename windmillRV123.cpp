@@ -39,7 +39,7 @@ void title1()
 	 glRasterPos2f(-22,25);
      glColor3f(0.3,0.1,0.4);
 	 glRasterPos2f(-15,0.0);
-    declare("Ravi K R 4al16cs076 and Shashank 4al16cs076");
+    declare("Ravi K R 4al16cs076 and Shashank 4al16cs086");
 	glRasterPos2f(-15,-5.0);
       declare("Alvas institue of Engineering And Technalogy");
 	  glRasterPos2f(-15,-8.0);
